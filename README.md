@@ -1,5 +1,21 @@
-House Price Prediction
+# 🇮🇳 Indian House Price Predictor 🏡
 
-Welcome to the House Price Prediction repository! This project is aimed at predicting the prices of houses based on various features using machine learning models. The dataset used for this project contains information on various properties and their attributes, which are used to train and evaluate the models.
+A Machine Learning + Streamlit-based web application that predicts house prices based on Indian real estate data such as number of bedrooms, bathrooms, size (sq. ft), furnishing, property age, and location tier.
 
-The goal of this project is to create a model that can accurately predict house prices based on a variety of features such as square footage, number of bedrooms, location, and more. By leveraging machine learning techniques, we aim to provide a reliable tool for real estate professionals and home buyers.
+<img src="images/demo_home.png" width="100%" alt="App Homepage"/>
+
+---
+
+## 🚀 Features
+
+- 💡 Predict house prices with high accuracy
+- 📈 Price per sq. ft and property value breakdown
+- 📊 Visualize price distribution and size-vs-price trends
+- 🏙️ Tier-based location adjustments (Metro, Tier 2, Tier 3)
+- 🛋️ Furnishing and property age adjustments
+- 🎨 Clean UI with Indian theme and currency formatting
+
+---
+
+## 📁 Folder Structure
+
