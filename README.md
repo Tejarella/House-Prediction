@@ -1,8 +1,6 @@
 # 🇮🇳 Indian House Price Predictor 🏡
 
-A Machine Learning + Streamlit-based web application that predicts house prices based on Indian real estate data such as number of bedrooms, bathrooms, size (sq. ft), furnishing, property age, and location tier.
-
-<img src="images/demo_home.png" width="100%" alt="App Homepage"/>
+A Machine Learning + Streamlit-based web application that predicts house prices based on Indian real estate data such as number of bedrooms, bathrooms, size (sq. ft), furnishing, property age, and location tier
 
 ---
 
