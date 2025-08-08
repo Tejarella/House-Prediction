@@ -29,22 +29,6 @@ We created **House Price Predictor**, a simple yet powerful web app that:
 
 ---
 
-## 📊 Dataset Details
-The model is trained on a dataset with the following columns:
-
-| Column Name       | Description |
-|-------------------|-------------|
-| **beds**          | Number of bedrooms 🛏️ |
-| **baths**         | Number of bathrooms 🚿 |
-| **size**          | Built-up area of the property |
-| **size_units**    | Units of size (e.g., sq. ft, sq. m) |
-| **lot_size**      | Land area size |
-| **lot_size_units**| Units for lot size (e.g., sq. ft, acres) |
-| **zip_code**      | Postal code of the property |
-| **price**         | Final property price in ₹ |
-
----
-
 ## 🛠 Tech Stack
 - **Frontend & UI:** Streamlit  
 - **Backend & ML:** Python (Scikit-learn, Pandas, NumPy)  
@@ -55,11 +39,9 @@ The model is trained on a dataset with the following columns:
 ---
 
 ## 📸 Screenshots
-| Home Page | Prediction Form |
+
 |-----------|-----------------|
 | ![Home](1.jpg) | ![Form](2.jpg) |
-
-| | |
 |-------------------|-------------|
 | ![Output](3.jpg) | ![Graph](4.jpg) |
 
