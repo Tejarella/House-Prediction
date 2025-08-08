@@ -54,7 +54,7 @@ We created **House Price Predictor**, a simple yet powerful web app that:
 - Streamlit
 
 # Clone the repository
-git clone https://github.com/your-username/House-Price-Predictor.git
+git clone https://github.com/Tejarella/House-Prediction.git
 
 # Navigate to the project folder
 cd House-Price-Predictor
