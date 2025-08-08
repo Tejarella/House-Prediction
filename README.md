@@ -39,11 +39,10 @@ We created **House Price Predictor**, a simple yet powerful web app that:
 ---
 
 ## 📸 Screenshots
-
 |-----------|-----------------|
-| ![Home](1.jpg) | ![Form](2.jpg) |
+| ![Home](1.png) | ![Form](2.png) |
 |-------------------|-------------|
-| ![Output](3.jpg) | ![Graph](4.jpg) |
+| ![Output](3.png) | ![Graph](4.png) |
 
 ---
 
